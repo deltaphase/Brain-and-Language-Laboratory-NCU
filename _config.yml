@@ -6,4 +6,4 @@ relative_links:
 include:
   - INDEX.md
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
