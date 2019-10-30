@@ -1,4 +1,5 @@
-title: Brain and Language Laboratory @ NCU
+title: 大腦與語言實驗室
+description: neurolinguistics, computation, and MEG
 plugins:
   - jekyll-relative-links
 relative_links:
