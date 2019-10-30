@@ -3,6 +3,9 @@ description: neurolinguistics, computation, and MEG
 show_downloads: false
 plugins:
   - jekyll-relative-links
+github:
+  is_project_page: false
+  is_user_page: false
 relative_links:
   enabled: true
   collections: true
@@ -16,6 +19,3 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-leap-day
-github:
-  is_project_page: false
-  is_user_page: false
