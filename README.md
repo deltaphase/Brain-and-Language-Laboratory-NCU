@@ -50,6 +50,6 @@ Cognitive Neuroscience 認知神經科學
 Independent Study: Computational Neuroscience and Language Acquisition 獨立研究：計算神經科學與語言習得  &nbsp;
 
 ## Grants 研究計畫  
-2018– The role of morphologcal complexcity and semantic distinctiveness on word recognition and word learning. (MOST-108-2636-H-008-001, MOST Young Scholar Fellowship Columbus Program) 
+2019– The role of morphologcal complexcity and semantic distinctiveness on word recognition and word learning. (MOST-108-2636-H-008-001, MOST Young Scholar Fellowship Columbus Program) 
 
 <img align="right" src="./ncu_logo.png" height="50">  &nbsp;
