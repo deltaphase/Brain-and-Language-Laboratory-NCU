@@ -1,5 +1,7 @@
 title: 大腦與語言實驗室
 description: neurolinguistics, computation, and MEG
+github:
+  is_project_page: false
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,7 +16,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-github:
-  is_project_page: false
   
 theme: jekyll-theme-leap-day
