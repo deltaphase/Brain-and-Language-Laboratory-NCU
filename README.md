@@ -23,6 +23,14 @@
 ## Main Interesting 研究項目  
 <img align="right" src="./puzzle_issues.png" height="100">  
   
+![](./20181105_github001.png)  
+![](./20181105_github002.png)  
+![](./20181105_github003.png)  
+![](./20181105_github004.png)  
+![](./20181105_github005.png)  
+![](./20181105_github006.png)  
+![](./20181105_github007.png)  
+  
 ## Selective Publications 代表著作  
   
 ## Courses 教學  
