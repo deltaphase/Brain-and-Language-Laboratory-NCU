@@ -5,6 +5,7 @@
 <img src="./B27_PI.png" width="120">
 
 ## Main Interesting 研究項目
+<img align="right" src="./puzzle_issues.png" height="50">
 
 ## Selective Publications 代表著作
 
@@ -12,6 +13,4 @@
 
 ## Grants 研究計畫
 
-
-
-<img style="float: right;" src="./ncu_logo.png">
+<img align="right" src="./ncu_logo.png" height="50">
