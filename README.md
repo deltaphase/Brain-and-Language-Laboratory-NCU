@@ -12,18 +12,18 @@
 
 
 ## Principal Investigator 實驗室主持人
-<img src="./B27_PI.png" width="120">
-徐峻賢 助理教授
-- 國立陽明大學神經科學研究所 (博士)
-
-
-## Main Interesting 研究項目
-<img align="right" src="./puzzle_issues.png" height="100">
-
-## Selective Publications 代表著作
-
-## Courses 教學
-
-## Grants 研究計畫
-
-<img align="right" src="./ncu_logo.png" height="50">
+<img src="./B27_PI.png" width="120">  
+徐峻賢 助理教授  
+- 國立陽明大學神經科學研究所 (博士)  
+- kevinhsu@ncu.edu.tw  
+  
+## Main Interesting 研究項目  
+<img align="right" src="./puzzle_issues.png" height="100">  
+  
+## Selective Publications 代表著作  
+  
+## Courses 教學  
+  
+## Grants 研究計畫  
+  
+<img align="right" src="./ncu_logo.png" height="50">  
