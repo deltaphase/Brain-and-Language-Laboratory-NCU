@@ -28,7 +28,7 @@
 ![](./20181105_github006.png)  &nbsp;
 ![](./20181105_github007.png)  &nbsp;
 
-  ## Courses 教學  
+## Courses 教學  
 Cognitive Neuroscience 認知神經科學  
 Independent Study: Computational Neuroscience and Language Acquisition 獨立研究：計算神經科學與語言習得  &nbsp;
 
