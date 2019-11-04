@@ -1,5 +1,5 @@
 # Brain and Language Laboratory @ NCU
-![](./MEG.JPG)  &nbsp;
+![](./IMG_1920_long.jpg)  &nbsp;
 
 - 如何分析神經活動的訊號？腦磁圖、腦電圖有什麼差別？
 - 該怎麼從文獻大海開始尋找議題、設計神經語言學的實驗？
@@ -27,7 +27,14 @@
 ![](./20181105_github005.png)  &nbsp;
 ![](./20181105_github006.png)  &nbsp;
 ![](./20181105_github007.png)  &nbsp;
-  
+
+  ## Courses 教學  
+Cognitive Neuroscience 認知神經科學  
+Independent Study: Computational Neuroscience and Language Acquisition 獨立研究：計算神經科學與語言習得  &nbsp;
+
+## Grants 研究計畫  
+2019– The role of morphologcal complexcity and semantic distinctiveness on word recognition and word learning. (MOST-108-2636-H-008-001, MOST Young Scholar Fellowship Columbus Program) 
+
 ## Publications 代表著作  
 Hsu, C.-H.*, Pylkkänen, L., Lee, C.-Y (2019) Effects of morphological complexity in left temporal cortex: An MEG study of reading Chinese disyllabic words. Journal of Neurolinguistics. 49, 168-177. (SSCI; *corresponding author)  
 Tzeng, Y. L., Hsu, C. H., Lin, W. H., & Lee, C. Y. (2018). Impaired orthographic processing in Chinese dyslexic children: Evidence from the lexicality effect on N400. Scientific Studies of Reading, 22(1), 85-100.  
@@ -44,12 +51,5 @@ Hsu, C-H., Lin, S.-K., Hsu, Y.-Y., Lee, C.-Y. (2014). The neural generators of t
 Hsu, C-H.*, Lee, C.-Y., Marantz, A. (2011). Effects of visual complexity and sublexical information in the occipitotemporal cortex in the reading of Chinese phonograms: a single-trial regression analysis with MEG. Brain and Language. 117(1), 1-11. (SCI, SSCI; *corresponding author)  
 Hsu, C-H., Tsai, J.-L., Lee, C.-Y., Tzeng, O. J.-L. (2009). Orthographic Combinability and Phonological Consistency Effects in Reading Chinese Phonograms: an Event-Related Potential Study. Brain and Language, 108(1), 56-66. (SCI)  
 Lee, C.-Y., Hsu, C.-H.*, Chang, Y.-N., Chen, W.-F., & Chao, P.-C. (2015). The feedback consistency effect in Chinese character recognition: Evidence from a psycholinguistic norm. Language and Linguistics, 16(4), 535-554. (SSCI; *corresponding author)  &nbsp;  
-  
-## Courses 教學  
-Cognitive Neuroscience 認知神經科學  
-Independent Study: Computational Neuroscience and Language Acquisition 獨立研究：計算神經科學與語言習得  &nbsp;
-
-## Grants 研究計畫  
-2019– The role of morphologcal complexcity and semantic distinctiveness on word recognition and word learning. (MOST-108-2636-H-008-001, MOST Young Scholar Fellowship Columbus Program) 
 
 <img align="right" src="./ncu_logo.png" height="50">  &nbsp;
