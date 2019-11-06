@@ -13,12 +13,32 @@
 ## Principal Investigator 實驗室主持人
 <img src="./B27_PI.png" width="120">  
 徐峻賢 助理教授  
-
-
+  
 - 國立陽明大學神經科學研究所 (博士)  
+- kevinhsu  **@**  ncu.edu.tw  &nbsp;
+  
+經歷:  
 
-- kevinhsu@ncu.edu.tw  &nbsp;
+- 國立中央大學 電機工程學系 助理教授 2018.08~  
+- 中央研究院 語言學研究所大腦與語言實驗室 博士後研究員 2012.2~2018.07  
+- New York University, Visiting Scholar 2008.8~2009.7  &nbsp;
 
+研究興趣:  
+  
+- MEG/EEG 訊號分析 (source analysis, HHT, statistical methods)  
+- 語音學 (ASR, prosody perception)  
+- 構詞學  
+- 神經語言學  
+- 語言發展  
+- 機械學習  &nbsp;
+  
+獲獎:  
+  
+- 2019 科技部年輕學者 MOST Young Scholar Fellowship (哥倫布計畫2019.2~2024.1)  
+- 2019 國立中央大學新聘傑出教研人員獎  
+- 2009 中央研究院語言學研究所跨學科博士候選人培育計畫  
+- 2008 行政院國家科學委員會補助博士生赴國外研究  &nbsp;
+  
 ## Main Interests 研究項目  
 ![](./20181105_github001.png)  
 ![](./20181105_github002.png)  &nbsp;
