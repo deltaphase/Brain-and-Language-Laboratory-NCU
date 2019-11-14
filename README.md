@@ -12,7 +12,8 @@
 
 ## Principal Investigator 實驗室主持人
 <img src="./B27_PI.png" width="120">  
-徐峻賢 助理教授  
+徐峻賢 助理教授  &nbsp;
+Dr. Chun-Hsien Hsu, Assistant Professor  
   
 - 學歷：國立陽明大學神經科學研究所 (博士)  
 - kevinhsu  **@**  ncu.edu.tw  &nbsp;
