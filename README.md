@@ -1,5 +1,5 @@
 # Brain and Language Laboratory @ NCU
-<p><a href="https://www.ncu.edu.tw/" title="Go to English version">[English version]</a></p>
+<p><a href="https://www.ncu.edu.tw/" title="Go to English version">[GO to English version]</a></p>
 ![](./IMG_1920_long.jpg)  &nbsp;
 - 如何分析神經活動的訊號？腦磁圖、腦電圖有什麼差別？
 - 該怎麼從文獻大海開始尋找議題、設計神經語言學的實驗？
