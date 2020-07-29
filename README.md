@@ -1,6 +1,6 @@
 # Brain and Language Laboratory @ NCU
 ![](./IMG_1920_long.jpg)  &nbsp;
-
+<p><a href="https://www.ncu.edu.tw/" title="Go to homepage of NCU">NCU</a></p>
 - 如何分析神經活動的訊號？腦磁圖、腦電圖有什麼差別？
 - 該怎麼從文獻大海開始尋找議題、設計神經語言學的實驗？
 - 閱讀素養的表現是否和大腦的活動有關？學習詞彙或者新的語言，如何改變大腦的運作方式？
@@ -49,8 +49,10 @@
 ![](./20181105_github007.png)  &nbsp;
 
 ## Courses 教學  
-Cognitive Neuroscience 認知神經科學  
-Independent Study: Computational Neuroscience and Language Acquisition 獨立研究：計算神經科學與語言習得  &nbsp;
+BM2005 Cognitive Neuroscience 認知神經科學  
+NS5110 Independent Study: Computational Neuroscience and Language Acquisition 獨立研究：計算神經科學與語言習得  &nbsp;
+BM2034 Introduction of Computational Methods of Neural Decoding 神經解碼與計算模型概論
+NS5121 Using R for linear model analysis in cognitive science R語言暨應用線性模型於認知科學
 
 ## Grants 研究計畫  
 2019– The role of morphologcal complexcity and semantic distinctiveness on word recognition and word learning. (MOST-108-2636-H-008-001, MOST Young Scholar Fellowship Columbus Program) 
