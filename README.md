@@ -1,5 +1,5 @@
 # Brain and Language Laboratory @ NCU
-<p><a href="https://deltaphase.github.io/Brain-and-Language-Lab-Eng/" title="Go to English version">[Go to English version]</a></p>
+<a href="https://deltaphase.github.io/Brain-and-Language-Lab-Eng/" title="Go to English version">[Go to English version]</a>
 ![](./IMG_1920_long.jpg)  &nbsp;
 - 如何分析神經活動的訊號？腦磁圖、腦電圖有什麼差別？
 - 該怎麼從文獻大海開始尋找議題、設計神經語言學的實驗？
