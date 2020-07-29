@@ -1,6 +1,6 @@
 # Brain and Language Laboratory @ NCU
+<p><a href="https://www.ncu.edu.tw/" title="Go to English version">[English version]</a></p>
 ![](./IMG_1920_long.jpg)  &nbsp;
-<p><a href="https://www.ncu.edu.tw/" title="Go to homepage of NCU">NCU</a></p>
 - 如何分析神經活動的訊號？腦磁圖、腦電圖有什麼差別？
 - 該怎麼從文獻大海開始尋找議題、設計神經語言學的實驗？
 - 閱讀素養的表現是否和大腦的活動有關？學習詞彙或者新的語言，如何改變大腦的運作方式？
