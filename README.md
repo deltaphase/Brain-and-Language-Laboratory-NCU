@@ -1,6 +1,11 @@
 # Brain and Language Laboratory @ NCU
 <a href="https://deltaphase.github.io/Brain-and-Language-Lab-Eng/" title="Go to English version">[Go to English version]</a>  &nbsp;
 ![](./IMG_1920_long.jpg)  &nbsp;
+  &nbsp;
+<a href="https://www.youtube.com/channel/UCNIFimSvPSlSfknK-O9GrcQ" title="My Youtube Channel">[My Youtube Channel]</a>  &nbsp;  
+[![Experiment Procedures of EEG studies (English Captions)](https://img.youtube.com/vi/l_ntDvT6u0s/0.jpg)](https://www.youtube.com/watch?v=l_ntDvT6u0s)
+  &nbsp;
+  &nbsp;
 - 如何分析神經活動的訊號？腦磁圖、腦電圖有什麼差別？
 - 該怎麼從文獻大海開始尋找議題、設計神經語言學的實驗？
 - 閱讀素養的表現是否和大腦的活動有關？學習詞彙或者新的語言，如何改變大腦的運作方式？
