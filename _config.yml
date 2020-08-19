@@ -7,10 +7,6 @@ github:
 relative_links:
   enabled: true
   collections: true
-output: 
-  html_document:
-    includes:
-       in_header: GA_script.html
 include:
   - CONTRIBUTING.md
   - README.md
@@ -21,3 +17,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-cayman
+google_analytics: UA-175320285-2
