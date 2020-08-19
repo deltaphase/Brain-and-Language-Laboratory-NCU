@@ -7,6 +7,10 @@ github:
 relative_links:
   enabled: true
   collections: true
+output: 
+  html_document:
+    includes:
+       in_header: GA_script.html
 include:
   - CONTRIBUTING.md
   - README.md
