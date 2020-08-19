@@ -16,4 +16,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  in_header: GA_script.html
 theme: jekyll-theme-cayman
