@@ -1,3 +1,4 @@
+<head>{% include GA_script.html %}</head>
 # Brain and Language Laboratory @ NCU
 <a href="https://deltaphase.github.io/Brain-and-Language-Lab-Eng/" title="Go to English version">[Go to English version]</a>  &nbsp;
 ![](./IMG_1920_long.jpg)  &nbsp;  
