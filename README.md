@@ -13,14 +13,14 @@
 
 ## Principal Investigator 實驗室主持人
 <img src="./B27_PI.png" width="120">  
-徐峻賢 助理教授  
+徐峻賢 副教授  
   
 - 學歷：國立陽明大學神經科學研究所 (博士)  
 - kevinhsu  **@**  ncu.edu.tw  &nbsp;
   
 經歷:  
 
-- 國立中央大學 認知神經科學研究所 助理教授 2018.08~  
+- 國立中央大學 認知神經科學研究所 副教授 2025.08~  
 - 中央研究院 語言學研究所大腦與語言實驗室 博士後研究員 2012.2~2018.07  
 - New York University, Visiting Scholar 2008.8~2009.7  &nbsp;
 
